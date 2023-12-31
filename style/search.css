@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+#yellow{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+#button{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+#Table{
+    width: auto;
+    height: auto;
+    /* background-color: red; */
+}
+
+table{
+    width: 100%;
+}
+table, td, th{
+    border:  3px solid pink;
+    border-collapse: collapse;
+}
+td, th{
+    padding: 6px 10px;
+}
+table thead th{
+    text-align: left;
+}
+.tableHover tbody tr:hover{
+    background-color: aqua;
+}
+/* .tableHover tbody tr:nth-child(odd){
+    background-color: chocolate;
+} */
+#buttonBottom{
+    padding: 15px;
+}

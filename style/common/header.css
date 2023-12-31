@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(201, 178, 178);
+}
+hr{
+    border: 1px solid black;
+  }
+h1{
+    background-color: blue;
+    height: 30px;
+    width: auto;
+}

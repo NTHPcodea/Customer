@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(201, 178, 178);
+}
+hr{
+    border: 1px solid black;
+  }
+p{
+    right: 15px;
+    color: brown;
+}
